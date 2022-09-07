@@ -44,13 +44,23 @@ uvicorn main:app --reload
 This folder contains all models and schemas. Models that inherit from Document are extended by beanie functionalities,
 so that you can simply create, read, update, delete these models in the database
 
+docs: 
+https://maydmor.github.io/fastapi-mongodb-template/models
+
 #### repositories folder
 This folder contains the repositories which act as an interface for the database.
+docs:
+https://maydmor.github.io/fastapi-mongodb-template/repositories
 
 #### routers folder
 This folder contains all APIRouters. The endpoints for your api should go in here
 
+docs:
+https://maydmor.github.io/fastapi-mongodb-template/routers
+
 #### security folder
 This folder contains all security related modules and functions. 
 
+docs:
+https://maydmor.github.io/fastapi-mongodb-template/security
 
