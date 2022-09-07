@@ -49,6 +49,7 @@ https://maydmor.github.io/fastapi-mongodb-template/models
 
 #### repositories folder
 This folder contains the repositories which act as an interface for the database.
+
 docs:
 https://maydmor.github.io/fastapi-mongodb-template/repositories
 
